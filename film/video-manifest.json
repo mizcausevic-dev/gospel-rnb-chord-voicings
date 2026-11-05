@@ -1,0 +1,26 @@
+{
+  "title": "Gospel R&B Chord Voicings",
+  "study": "gr01",
+  "bpm": 76,
+  "source_audio": "preview/gospel-rnb-chord-voicings-simple-synth-preview.mp3",
+  "source_audio_sha256": "487be5f497a99b0742ffe6224f9fc4e16780b8c396609b8a023f03a46d09a316",
+  "source_midi": "midi/gr01-sunlit-keys/gr01-sunlit-keys-combined.mid",
+  "source_midi_sha256": "2ecadca9dc5e02b0bc5d94df74d142472acd75d2636fdbcb13db8a8b606febf4",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "b88d373f4b7eb1cc31b7b539ff3697a1ff984b993635d382ba40a7563f84b6a4",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "54ac9076cbca48f856adccdb77a86e7da1b51677df3a5acfe96a5967183b32c3",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "1b5c8efb76ba2823398955c860aeee5028c0a773caa6dc7b6d8ca6af16e92686",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

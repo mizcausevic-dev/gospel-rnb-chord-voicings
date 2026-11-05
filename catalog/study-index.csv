@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+gr01,Sunlit Keys,pack-local equal-tempered pitch collection,C,76,4/4,480,32,61440,midi/gr01-sunlit-keys/gr01-sunlit-keys-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gr02,Open Hands,pack-local equal-tempered pitch collection,D#,76,4/4,480,32,61440,midi/gr02-open-hands/gr02-open-hands-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gr03,Quiet Reply,pack-local equal-tempered pitch collection,F#,76,4/4,480,32,61440,midi/gr03-quiet-reply/gr03-quiet-reply-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gr04,Home Light,pack-local equal-tempered pitch collection,C#,76,4/4,480,32,61440,midi/gr04-home-light/gr04-home-light-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

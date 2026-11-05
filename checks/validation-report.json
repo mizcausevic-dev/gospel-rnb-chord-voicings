@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T02:04:01.118921+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/gr01-sunlit-keys/chord_pulse.mid",
+      "bytes": 1303,
+      "sha256": "337342885977767c221cfd6c68e801f94b0d6e5636136d621c986febc1da53c9",
+      "errors": []
+    },
+    {
+      "path": "midi/gr01-sunlit-keys/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a1c1ba8c49a124f80bc099af7b54509cab26b73efbaa1f66434e11e45c7930b4",
+      "errors": []
+    },
+    {
+      "path": "midi/gr01-sunlit-keys/drums.mid",
+      "bytes": 1618,
+      "sha256": "90096ec21fafd6179546310db67300c29922facd47fab1be9fbc43493de949df",
+      "errors": []
+    },
+    {
+      "path": "midi/gr01-sunlit-keys/gr01-sunlit-keys-combined.mid",
+      "bytes": 4158,
+      "sha256": "2ecadca9dc5e02b0bc5d94df74d142472acd75d2636fdbcb13db8a8b606febf4",
+      "errors": []
+    },
+    {
+      "path": "midi/gr01-sunlit-keys/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "2f574dbb9defba6502fdd6cce8d9700000740258e178140ff6e93ab117907ba5",
+      "errors": []
+    },
+    {
+      "path": "midi/gr01-sunlit-keys/sub_bass.mid",
+      "bytes": 589,
+      "sha256": "05a395ddf5fec390239798748e86f44f432d64e77a524e7f1d1fbecadfbb6246",
+      "errors": []
+    },
+    {
+      "path": "midi/gr01-sunlit-keys/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1b19368fff2716c20d2c656f0faf4fd870bac1834ec9e7b18b7004ca443d9310",
+      "errors": []
+    },
+    {
+      "path": "midi/gr02-open-hands/chord_pulse.mid",
+      "bytes": 1303,
+      "sha256": "8953bcd2bf7e41b5708dcec5ae881ab8d7d0c0ad1820fb4d70c6d1170e0bf593",
+      "errors": []
+    },
+    {
+      "path": "midi/gr02-open-hands/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3fb104131b673bfc7caccca594ae00c39f1266eb253697d84b22fc8fa5c6aa90",
+      "errors": []
+    },
+    {
+      "path": "midi/gr02-open-hands/drums.mid",
+      "bytes": 1618,
+      "sha256": "90096ec21fafd6179546310db67300c29922facd47fab1be9fbc43493de949df",
+      "errors": []
+    },
+    {
+      "path": "midi/gr02-open-hands/gr02-open-hands-combined.mid",
+      "bytes": 4157,
+      "sha256": "5d978713313462af92d22c8f6420c7091662edfb8ff66d8557daae3f2782ea09",
+      "errors": []
+    },
+    {
+      "path": "midi/gr02-open-hands/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "2252aa7d2a33bc9e36b90875b4f3a47950048479e4655ecb2c16ed541a8818bb",
+      "errors": []
+    },
+    {
+      "path": "midi/gr02-open-hands/sub_bass.mid",
+      "bytes": 589,
+      "sha256": "8e5ff9a414e08ac582e2cb9d9e1486c660dc47ffb1412cd9e9f31d96054c4353",
+      "errors": []
+    },
+    {
+      "path": "midi/gr02-open-hands/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0a0cc9fe8b53acc0e745416b469960fd3094e2e6452d8e39af15963b3ed65d13",
+      "errors": []
+    },
+    {
+      "path": "midi/gr03-quiet-reply/chord_pulse.mid",
+      "bytes": 1303,
+      "sha256": "fb59ffae737bf576056a2f650b225f801565b42656a4873c386576caad7b542b",
+      "errors": []
+    },
+    {
+      "path": "midi/gr03-quiet-reply/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "733414803793d97d12cdba33595df9aedc03a649246a6ae14f755a4ebd8dfbab",
+      "errors": []
+    },
+    {
+      "path": "midi/gr03-quiet-reply/drums.mid",
+      "bytes": 1618,
+      "sha256": "90096ec21fafd6179546310db67300c29922facd47fab1be9fbc43493de949df",
+      "errors": []
+    },
+    {
+      "path": "midi/gr03-quiet-reply/gr03-quiet-reply-combined.mid",
+      "bytes": 4137,
+      "sha256": "eb3c6d7c78811dac185693c2215f760106cf6ad8017582118cc82aab02f77d35",
+      "errors": []
+    },
+    {
+      "path": "midi/gr03-quiet-reply/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "73d44210bff70dedec86bd4f37efd6ce3cec83f2e65393ac173c2c24b546ad5e",
+      "errors": []
+    },
+    {
+      "path": "midi/gr03-quiet-reply/sub_bass.mid",
+      "bytes": 589,
+      "sha256": "0022a4805fadff59f6f5fd6751aa15fe7b49fc5502bcc7608bde9a77bbfc2ea5",
+      "errors": []
+    },
+    {
+      "path": "midi/gr03-quiet-reply/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "b45a8f3b223ce2159be050a3c8652d57c2b9299716bbddd60c5c850357dc1719",
+      "errors": []
+    },
+    {
+      "path": "midi/gr04-home-light/chord_pulse.mid",
+      "bytes": 1303,
+      "sha256": "f594204993a09726fa5e52e532bae34122a98e4f3315904081ae85ddb8a87cfa",
+      "errors": []
+    },
+    {
+      "path": "midi/gr04-home-light/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "382fb2e2e9b6b6d0785b987ac64739bff1ab5d6155f55e483b72cb85a63c25e0",
+      "errors": []
+    },
+    {
+      "path": "midi/gr04-home-light/drums.mid",
+      "bytes": 1618,
+      "sha256": "90096ec21fafd6179546310db67300c29922facd47fab1be9fbc43493de949df",
+      "errors": []
+    },
+    {
+      "path": "midi/gr04-home-light/gr04-home-light-combined.mid",
+      "bytes": 4137,
+      "sha256": "31d5f08a675ef8954abeb94b4de0a374b49f3bf465ab15fee68d069446e6527c",
+      "errors": []
+    },
+    {
+      "path": "midi/gr04-home-light/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "2d445c69a0a526bdbd56ddacc57e8d845a26a64c43b546fbc314b745c9be0e98",
+      "errors": []
+    },
+    {
+      "path": "midi/gr04-home-light/sub_bass.mid",
+      "bytes": 589,
+      "sha256": "a168cfd1cf8e08e0b6e0ca1140385dfe2b3a3821d4009d904ad10bcc50f48347",
+      "errors": []
+    },
+    {
+      "path": "midi/gr04-home-light/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "64f62a6874ded8a284c1ff8b1e687fd862c6494d3e404018cd6b17ba7a293d27",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
