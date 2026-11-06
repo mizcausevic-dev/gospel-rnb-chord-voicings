@@ -76,6 +76,20 @@ def main():
                             if kind == "sub_bass" and study_index and local // release.BAR_TICKS == study_index and local % release.BAR_TICKS == 0:
                                 continue
                             notes.append((local, min(event["duration"], END-local), event["pitch"], event["velocity"]))
+                if args.pack == "gospel-rnb-chord-voicings" and kind == "chords":
+                    # Patient chord entries move through inversions and leave
+                    # rests for a lead voice, while using the study harmony.
+                    entries = ((0,), (240,), (120, 1200), (360,))
+                    notes = []
+                    for bar in range(4):
+                        chord = sorted(study["chords"][(bar + variation) % 4])
+                        for _ in range((study_index + 2 * bar + variation) % len(chord)):
+                            chord = chord[1:] + [chord[0] + 12]
+                        offsets = entries[(bar + variation) % 4]
+                        for hit, offset in enumerate(offsets):
+                            duration = min(840 if hit == 0 else 480, release.BAR_TICKS - offset)
+                            for pitch in chord:
+                                notes.append((bar * release.BAR_TICKS + offset, duration, pitch, 62 + 6 * ((bar + study_index + hit) % 4)))
                 if not notes:
                     raise ValueError(f"Empty clip: {study['id']} {kind} {variation}")
                 label = "chord-progression" if kind == "chords" else ("bass-hook" if kind == "sub_bass" else "melody")
