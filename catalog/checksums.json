@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/gospel-rnb-chord-voicings-midi.zip",
-      "bytes": 27233,
-      "sha256": "cae151ebc9dee1901a4da577a7fadaa452a230f99b0cc4a51b449ec467ebf208"
+      "bytes": 28220,
+      "sha256": "cbd80f573ddca5e4276c2222ba0a1497c548ecff8eef0728c6b1ce2299b0b7c0"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10776,
-      "sha256": "296f832956ddefe528acf41e45862a4919ef70b11ff22cf8258ff2f3396b42cd"
+      "bytes": 10966,
+      "sha256": "21babd364586cc4f9f08024b32a7638ab8f1c7b620f67dc3c217e779b5cd3bf1"
     },
     {
       "path": "midi/gr01-sunlit-keys/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "64f62a6874ded8a284c1ff8b1e687fd862c6494d3e404018cd6b17ba7a293d27"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/gospel-rnb-chord-voicings-simple-synth-preview.mp3",
       "bytes": 2438835,
       "sha256": "487be5f497a99b0742ffe6224f9fc4e16780b8c396609b8a023f03a46d09a316"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4265,
-      "sha256": "2a08255867a6d1938e0f27d03f2eb3845b3b80bdcbbf4176a817ec45e429df81"
+      "bytes": 4380,
+      "sha256": "347c2ccbf99c20ce51046c476becccd4ba49a2bca7294bf774251f891243d675"
     },
     {
       "path": "REVISION.md",
